@@ -10,12 +10,11 @@
 ### Web-scrapping<br />
 The data for this project was web-scraped from the following sources:
 
-The Numbers: Movie Budgets
-IMDb: Feature Films
-Box Office Mojo: Most Theaters
-Moviefone: 2019 Movies
-Wikipedia: List of Academy Award-winning Films
-Key Exploration Questions
+1. https://www.the-numbers.com/movie/budgets/all/1
+2. https://www.imdb.com/search/title/?title_type=feature&num_votes=5000,&languages=en&sort=boxoffice_gross_us,desc&start=1&explore=genres&ref_=adv_nx
+3. https://www.boxofficemojo.com/chart/most_theaters/?by_studio_type=major
+4. https://www.moviefone.com/movies/2019/?page=1
+5. https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
 
 ### Exploration Questions <br />
 
